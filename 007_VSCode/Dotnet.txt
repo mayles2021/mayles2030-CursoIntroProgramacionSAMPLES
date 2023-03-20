@@ -1,12 +1,45 @@
-1. Abrir terminal 
-2. Crear proyecto
 
-	dotnet new console -o AppTypesVar
+- Comandos Útiles de MS-DOS
 
-3. Entrar en el proyecto
+	- Borrar Terminal de comandos => cls
+	- Borrar contenido de directorios => delete *.*
 
-	cd AppTypesVar
+	- Entrar en carpeta => cd NombreCarpeta
+	- Salir de carpeta => cd ..
 
-4. Abrir proyecto
+	- Crear carpeta => md NombreCarpeta
+	- Borrar carpeta => rd NombreCarpeta
 
-	code .
+
+- Ver Ayuda y Version dotnet instalada
+
+	1. dotnet
+
+	2. dotnet --version
+
+
+- Crear y Modificiar código VSCode
+
+	1. Abrir terminal 
+	2. Crear proyecto
+
+		dotnet new console -o AppName
+
+	3. Entrar en el proyecto
+
+		cd AppName
+
+	4. Abrir proyecto
+
+		code .
+
+
+- Arrancar proyecto VSCode
+
+	1. dotnet run
+
+
+- Compilar proyecto VSCode
+
+	1. dotnet build
+
