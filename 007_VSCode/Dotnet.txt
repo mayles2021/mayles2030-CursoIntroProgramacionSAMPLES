@@ -1,0 +1,12 @@
+1. Abrir terminal 
+2. Crear proyecto
+
+	dotnet new console -o AppTypesVar
+
+3. Entrar en el proyecto
+
+	cd AppTypesVar
+
+4. Abrir proyecto
+
+	code .
