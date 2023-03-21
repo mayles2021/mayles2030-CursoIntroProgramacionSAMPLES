@@ -1,0 +1,15 @@
+C:\Apps\ElCorteIngles2\bin\Debug\net7.0\ElCorteIngles2.exe
+C:\Apps\ElCorteIngles2\bin\Debug\net7.0\ElCorteIngles2.deps.json
+C:\Apps\ElCorteIngles2\bin\Debug\net7.0\ElCorteIngles2.runtimeconfig.json
+C:\Apps\ElCorteIngles2\bin\Debug\net7.0\ElCorteIngles2.dll
+C:\Apps\ElCorteIngles2\bin\Debug\net7.0\ElCorteIngles2.pdb
+C:\Apps\ElCorteIngles2\obj\Debug\net7.0\ElCorteIngles2.csproj.AssemblyReference.cache
+C:\Apps\ElCorteIngles2\obj\Debug\net7.0\ElCorteIngles2.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\ElCorteIngles2\obj\Debug\net7.0\ElCorteIngles2.AssemblyInfoInputs.cache
+C:\Apps\ElCorteIngles2\obj\Debug\net7.0\ElCorteIngles2.AssemblyInfo.cs
+C:\Apps\ElCorteIngles2\obj\Debug\net7.0\ElCorteIngles2.csproj.CoreCompileInputs.cache
+C:\Apps\ElCorteIngles2\obj\Debug\net7.0\ElCorteIngles2.dll
+C:\Apps\ElCorteIngles2\obj\Debug\net7.0\refint\ElCorteIngles2.dll
+C:\Apps\ElCorteIngles2\obj\Debug\net7.0\ElCorteIngles2.pdb
+C:\Apps\ElCorteIngles2\obj\Debug\net7.0\ElCorteIngles2.genruntimeconfig.cache
+C:\Apps\ElCorteIngles2\obj\Debug\net7.0\ref\ElCorteIngles2.dll

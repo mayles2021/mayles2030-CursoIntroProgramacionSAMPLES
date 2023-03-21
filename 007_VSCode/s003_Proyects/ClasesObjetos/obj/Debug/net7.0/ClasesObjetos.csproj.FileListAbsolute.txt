@@ -1,0 +1,15 @@
+C:\Apps\ClasesObjetos\bin\Debug\net7.0\ClasesObjetos.exe
+C:\Apps\ClasesObjetos\bin\Debug\net7.0\ClasesObjetos.deps.json
+C:\Apps\ClasesObjetos\bin\Debug\net7.0\ClasesObjetos.runtimeconfig.json
+C:\Apps\ClasesObjetos\bin\Debug\net7.0\ClasesObjetos.dll
+C:\Apps\ClasesObjetos\bin\Debug\net7.0\ClasesObjetos.pdb
+C:\Apps\ClasesObjetos\obj\Debug\net7.0\ClasesObjetos.csproj.AssemblyReference.cache
+C:\Apps\ClasesObjetos\obj\Debug\net7.0\ClasesObjetos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Apps\ClasesObjetos\obj\Debug\net7.0\ClasesObjetos.AssemblyInfoInputs.cache
+C:\Apps\ClasesObjetos\obj\Debug\net7.0\ClasesObjetos.AssemblyInfo.cs
+C:\Apps\ClasesObjetos\obj\Debug\net7.0\ClasesObjetos.csproj.CoreCompileInputs.cache
+C:\Apps\ClasesObjetos\obj\Debug\net7.0\ClasesObjetos.dll
+C:\Apps\ClasesObjetos\obj\Debug\net7.0\refint\ClasesObjetos.dll
+C:\Apps\ClasesObjetos\obj\Debug\net7.0\ClasesObjetos.pdb
+C:\Apps\ClasesObjetos\obj\Debug\net7.0\ClasesObjetos.genruntimeconfig.cache
+C:\Apps\ClasesObjetos\obj\Debug\net7.0\ref\ClasesObjetos.dll
