@@ -1,0 +1,15 @@
+C:\AppTypesVar\bin\Debug\net7.0\AppTypesVar.exe
+C:\AppTypesVar\bin\Debug\net7.0\AppTypesVar.deps.json
+C:\AppTypesVar\bin\Debug\net7.0\AppTypesVar.runtimeconfig.json
+C:\AppTypesVar\bin\Debug\net7.0\AppTypesVar.dll
+C:\AppTypesVar\bin\Debug\net7.0\AppTypesVar.pdb
+C:\AppTypesVar\obj\Debug\net7.0\AppTypesVar.csproj.AssemblyReference.cache
+C:\AppTypesVar\obj\Debug\net7.0\AppTypesVar.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppTypesVar\obj\Debug\net7.0\AppTypesVar.AssemblyInfoInputs.cache
+C:\AppTypesVar\obj\Debug\net7.0\AppTypesVar.AssemblyInfo.cs
+C:\AppTypesVar\obj\Debug\net7.0\AppTypesVar.csproj.CoreCompileInputs.cache
+C:\AppTypesVar\obj\Debug\net7.0\AppTypesVar.dll
+C:\AppTypesVar\obj\Debug\net7.0\refint\AppTypesVar.dll
+C:\AppTypesVar\obj\Debug\net7.0\AppTypesVar.pdb
+C:\AppTypesVar\obj\Debug\net7.0\AppTypesVar.genruntimeconfig.cache
+C:\AppTypesVar\obj\Debug\net7.0\ref\AppTypesVar.dll
