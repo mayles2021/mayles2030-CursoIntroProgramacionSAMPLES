@@ -1,0 +1,15 @@
+C:\GOTO\bin\Debug\net7.0\GOTO.exe
+C:\GOTO\bin\Debug\net7.0\GOTO.deps.json
+C:\GOTO\bin\Debug\net7.0\GOTO.runtimeconfig.json
+C:\GOTO\bin\Debug\net7.0\GOTO.dll
+C:\GOTO\bin\Debug\net7.0\GOTO.pdb
+C:\GOTO\obj\Debug\net7.0\GOTO.csproj.AssemblyReference.cache
+C:\GOTO\obj\Debug\net7.0\GOTO.GeneratedMSBuildEditorConfig.editorconfig
+C:\GOTO\obj\Debug\net7.0\GOTO.AssemblyInfoInputs.cache
+C:\GOTO\obj\Debug\net7.0\GOTO.AssemblyInfo.cs
+C:\GOTO\obj\Debug\net7.0\GOTO.csproj.CoreCompileInputs.cache
+C:\GOTO\obj\Debug\net7.0\GOTO.dll
+C:\GOTO\obj\Debug\net7.0\refint\GOTO.dll
+C:\GOTO\obj\Debug\net7.0\GOTO.pdb
+C:\GOTO\obj\Debug\net7.0\GOTO.genruntimeconfig.cache
+C:\GOTO\obj\Debug\net7.0\ref\GOTO.dll
