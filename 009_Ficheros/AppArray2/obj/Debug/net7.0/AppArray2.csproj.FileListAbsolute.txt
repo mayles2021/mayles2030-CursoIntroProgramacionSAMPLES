@@ -1,0 +1,15 @@
+C:\AppArray2\bin\Debug\net7.0\AppArray2.exe
+C:\AppArray2\bin\Debug\net7.0\AppArray2.deps.json
+C:\AppArray2\bin\Debug\net7.0\AppArray2.runtimeconfig.json
+C:\AppArray2\bin\Debug\net7.0\AppArray2.dll
+C:\AppArray2\bin\Debug\net7.0\AppArray2.pdb
+C:\AppArray2\obj\Debug\net7.0\AppArray2.csproj.AssemblyReference.cache
+C:\AppArray2\obj\Debug\net7.0\AppArray2.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppArray2\obj\Debug\net7.0\AppArray2.AssemblyInfoInputs.cache
+C:\AppArray2\obj\Debug\net7.0\AppArray2.AssemblyInfo.cs
+C:\AppArray2\obj\Debug\net7.0\AppArray2.csproj.CoreCompileInputs.cache
+C:\AppArray2\obj\Debug\net7.0\AppArray2.dll
+C:\AppArray2\obj\Debug\net7.0\refint\AppArray2.dll
+C:\AppArray2\obj\Debug\net7.0\AppArray2.pdb
+C:\AppArray2\obj\Debug\net7.0\AppArray2.genruntimeconfig.cache
+C:\AppArray2\obj\Debug\net7.0\ref\AppArray2.dll

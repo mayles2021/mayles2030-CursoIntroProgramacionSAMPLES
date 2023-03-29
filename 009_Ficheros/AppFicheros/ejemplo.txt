@@ -1,0 +1,5 @@
+Nota Ivan: 9
+Nota Lilen: 10
+Nota Luis: 10
+Nota Miguel: 5
+Nota Jesus: 7

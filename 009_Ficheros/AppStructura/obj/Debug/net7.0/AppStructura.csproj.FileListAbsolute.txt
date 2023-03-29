@@ -1,0 +1,15 @@
+C:\AppStructura\bin\Debug\net7.0\AppStructura.exe
+C:\AppStructura\bin\Debug\net7.0\AppStructura.deps.json
+C:\AppStructura\bin\Debug\net7.0\AppStructura.runtimeconfig.json
+C:\AppStructura\bin\Debug\net7.0\AppStructura.dll
+C:\AppStructura\bin\Debug\net7.0\AppStructura.pdb
+C:\AppStructura\obj\Debug\net7.0\AppStructura.csproj.AssemblyReference.cache
+C:\AppStructura\obj\Debug\net7.0\AppStructura.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppStructura\obj\Debug\net7.0\AppStructura.AssemblyInfoInputs.cache
+C:\AppStructura\obj\Debug\net7.0\AppStructura.AssemblyInfo.cs
+C:\AppStructura\obj\Debug\net7.0\AppStructura.csproj.CoreCompileInputs.cache
+C:\AppStructura\obj\Debug\net7.0\AppStructura.dll
+C:\AppStructura\obj\Debug\net7.0\refint\AppStructura.dll
+C:\AppStructura\obj\Debug\net7.0\AppStructura.pdb
+C:\AppStructura\obj\Debug\net7.0\AppStructura.genruntimeconfig.cache
+C:\AppStructura\obj\Debug\net7.0\ref\AppStructura.dll
