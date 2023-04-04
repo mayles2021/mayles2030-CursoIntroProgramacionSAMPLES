@@ -1,0 +1,15 @@
+C:\AppColaToArray\bin\Debug\net7.0\AppColaToArray.exe
+C:\AppColaToArray\bin\Debug\net7.0\AppColaToArray.deps.json
+C:\AppColaToArray\bin\Debug\net7.0\AppColaToArray.runtimeconfig.json
+C:\AppColaToArray\bin\Debug\net7.0\AppColaToArray.dll
+C:\AppColaToArray\bin\Debug\net7.0\AppColaToArray.pdb
+C:\AppColaToArray\obj\Debug\net7.0\AppColaToArray.csproj.AssemblyReference.cache
+C:\AppColaToArray\obj\Debug\net7.0\AppColaToArray.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppColaToArray\obj\Debug\net7.0\AppColaToArray.AssemblyInfoInputs.cache
+C:\AppColaToArray\obj\Debug\net7.0\AppColaToArray.AssemblyInfo.cs
+C:\AppColaToArray\obj\Debug\net7.0\AppColaToArray.csproj.CoreCompileInputs.cache
+C:\AppColaToArray\obj\Debug\net7.0\AppColaToArray.dll
+C:\AppColaToArray\obj\Debug\net7.0\refint\AppColaToArray.dll
+C:\AppColaToArray\obj\Debug\net7.0\AppColaToArray.pdb
+C:\AppColaToArray\obj\Debug\net7.0\AppColaToArray.genruntimeconfig.cache
+C:\AppColaToArray\obj\Debug\net7.0\ref\AppColaToArray.dll
