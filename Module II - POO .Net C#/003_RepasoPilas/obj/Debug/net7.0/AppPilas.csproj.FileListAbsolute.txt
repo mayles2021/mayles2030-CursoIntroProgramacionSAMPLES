@@ -1,0 +1,15 @@
+C:\AppPilas\bin\Debug\net7.0\AppPilas.exe
+C:\AppPilas\bin\Debug\net7.0\AppPilas.deps.json
+C:\AppPilas\bin\Debug\net7.0\AppPilas.runtimeconfig.json
+C:\AppPilas\bin\Debug\net7.0\AppPilas.dll
+C:\AppPilas\bin\Debug\net7.0\AppPilas.pdb
+C:\AppPilas\obj\Debug\net7.0\AppPilas.csproj.AssemblyReference.cache
+C:\AppPilas\obj\Debug\net7.0\AppPilas.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppPilas\obj\Debug\net7.0\AppPilas.AssemblyInfoInputs.cache
+C:\AppPilas\obj\Debug\net7.0\AppPilas.AssemblyInfo.cs
+C:\AppPilas\obj\Debug\net7.0\AppPilas.csproj.CoreCompileInputs.cache
+C:\AppPilas\obj\Debug\net7.0\AppPilas.dll
+C:\AppPilas\obj\Debug\net7.0\refint\AppPilas.dll
+C:\AppPilas\obj\Debug\net7.0\AppPilas.pdb
+C:\AppPilas\obj\Debug\net7.0\AppPilas.genruntimeconfig.cache
+C:\AppPilas\obj\Debug\net7.0\ref\AppPilas.dll
