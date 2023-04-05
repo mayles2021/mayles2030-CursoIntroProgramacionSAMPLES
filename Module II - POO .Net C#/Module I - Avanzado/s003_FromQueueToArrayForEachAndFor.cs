@@ -15,12 +15,19 @@ class Program
             queue.Enqueue(3.14f);
             queue.Enqueue(true);
             queue.Enqueue(67.8);
+
+            // Añadir un nuevo elemento
+            // Borrar 2 elementos
+            // Recorrer la cola
+
+
+
             
 
             Console.WriteLine("Numero de elementos: {0}", queue.Count);
             Console.WriteLine($"Numero de elementos: {queue.Count}");
 
-            
+
             //Printing All Queue Elements using For Each Loop
             Console.WriteLine("Queue Elements:");
             foreach (var item in queue)

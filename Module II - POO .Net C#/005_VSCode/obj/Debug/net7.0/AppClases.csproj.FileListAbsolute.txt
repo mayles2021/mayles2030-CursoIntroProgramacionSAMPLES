@@ -1,0 +1,15 @@
+C:\AppClases\bin\Debug\net7.0\AppClases.exe
+C:\AppClases\bin\Debug\net7.0\AppClases.deps.json
+C:\AppClases\bin\Debug\net7.0\AppClases.runtimeconfig.json
+C:\AppClases\bin\Debug\net7.0\AppClases.dll
+C:\AppClases\bin\Debug\net7.0\AppClases.pdb
+C:\AppClases\obj\Debug\net7.0\AppClases.csproj.AssemblyReference.cache
+C:\AppClases\obj\Debug\net7.0\AppClases.GeneratedMSBuildEditorConfig.editorconfig
+C:\AppClases\obj\Debug\net7.0\AppClases.AssemblyInfoInputs.cache
+C:\AppClases\obj\Debug\net7.0\AppClases.AssemblyInfo.cs
+C:\AppClases\obj\Debug\net7.0\AppClases.csproj.CoreCompileInputs.cache
+C:\AppClases\obj\Debug\net7.0\AppClases.dll
+C:\AppClases\obj\Debug\net7.0\refint\AppClases.dll
+C:\AppClases\obj\Debug\net7.0\AppClases.pdb
+C:\AppClases\obj\Debug\net7.0\AppClases.genruntimeconfig.cache
+C:\AppClases\obj\Debug\net7.0\ref\AppClases.dll
