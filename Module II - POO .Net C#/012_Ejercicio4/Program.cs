@@ -114,6 +114,12 @@ namespace HelloWorld
 
             Console.ReadKey();
 
+            foreach(var x in struct1){
+                Console.WriteLine("Valor ForEach: " + x.nombre);
+            }
+            
+            Console.ReadKey();
+
         } 
     }
 }

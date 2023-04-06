@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "D:\\XFiles\\XFiles_CVS\\GitHub\\mayles2030-CursoIntroProgramacionSAMPLES\\Module II - POO .Net C#\\Ejercicio4\\Ejercicio4.csproj": {}
+    "D:\\XFiles\\XFiles_CVS\\GitHub\\mayles2030-CursoIntroProgramacionSAMPLES\\Module II - POO .Net C#\\012_Ejercicio4\\Ejercicio4.csproj": {}
   },
   "projects": {
-    "D:\\XFiles\\XFiles_CVS\\GitHub\\mayles2030-CursoIntroProgramacionSAMPLES\\Module II - POO .Net C#\\Ejercicio4\\Ejercicio4.csproj": {
+    "D:\\XFiles\\XFiles_CVS\\GitHub\\mayles2030-CursoIntroProgramacionSAMPLES\\Module II - POO .Net C#\\012_Ejercicio4\\Ejercicio4.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "D:\\XFiles\\XFiles_CVS\\GitHub\\mayles2030-CursoIntroProgramacionSAMPLES\\Module II - POO .Net C#\\Ejercicio4\\Ejercicio4.csproj",
+        "projectUniqueName": "D:\\XFiles\\XFiles_CVS\\GitHub\\mayles2030-CursoIntroProgramacionSAMPLES\\Module II - POO .Net C#\\012_Ejercicio4\\Ejercicio4.csproj",
         "projectName": "Ejercicio4",
-        "projectPath": "D:\\XFiles\\XFiles_CVS\\GitHub\\mayles2030-CursoIntroProgramacionSAMPLES\\Module II - POO .Net C#\\Ejercicio4\\Ejercicio4.csproj",
+        "projectPath": "D:\\XFiles\\XFiles_CVS\\GitHub\\mayles2030-CursoIntroProgramacionSAMPLES\\Module II - POO .Net C#\\012_Ejercicio4\\Ejercicio4.csproj",
         "packagesPath": "C:\\Users\\mayl3\\.nuget\\packages\\",
-        "outputPath": "D:\\XFiles\\XFiles_CVS\\GitHub\\mayles2030-CursoIntroProgramacionSAMPLES\\Module II - POO .Net C#\\Ejercicio4\\obj\\",
+        "outputPath": "D:\\XFiles\\XFiles_CVS\\GitHub\\mayles2030-CursoIntroProgramacionSAMPLES\\Module II - POO .Net C#\\012_Ejercicio4\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
