@@ -1,0 +1,15 @@
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\bin\Debug\net7.0\013_Listas.exe
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\bin\Debug\net7.0\013_Listas.deps.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\bin\Debug\net7.0\013_Listas.runtimeconfig.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\bin\Debug\net7.0\013_Listas.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\bin\Debug\net7.0\013_Listas.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\obj\Debug\net7.0\013_Listas.csproj.AssemblyReference.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\obj\Debug\net7.0\013_Listas.GeneratedMSBuildEditorConfig.editorconfig
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\obj\Debug\net7.0\013_Listas.AssemblyInfoInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\obj\Debug\net7.0\013_Listas.AssemblyInfo.cs
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\obj\Debug\net7.0\013_Listas.csproj.CoreCompileInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\obj\Debug\net7.0\013_Listas.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\obj\Debug\net7.0\refint\013_Listas.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\obj\Debug\net7.0\013_Listas.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\obj\Debug\net7.0\013_Listas.genruntimeconfig.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\013_Listas\obj\Debug\net7.0\ref\013_Listas.dll
