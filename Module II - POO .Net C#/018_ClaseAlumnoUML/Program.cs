@@ -12,6 +12,10 @@ namespace HelloWorld
         { 
             AsignarNombre();
             ImprimirValores();
+
+            Profesor obj1 = new Profesor();
+            obj1.nombre = "Rafael";
+            obj1.Imprimir();
         } 
 
         // Metodos fuera del MAIN siempre
@@ -27,4 +31,25 @@ namespace HelloWorld
 
 
     }
+
+
+
+
+
+    class Profesor{
+        public string nombre;
+
+        public void Imprimir(){
+            Console.WriteLine("Hola");
+        }
+    }
+
+    class Hospital{
+        public int pacientes = 100;
+    }
+
+
+
+
+
 }
