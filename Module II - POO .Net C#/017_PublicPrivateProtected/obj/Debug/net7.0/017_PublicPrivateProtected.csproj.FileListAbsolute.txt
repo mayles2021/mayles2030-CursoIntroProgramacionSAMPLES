@@ -1,0 +1,15 @@
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\bin\Debug\net7.0\017_PublicPrivateProtected.exe
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\bin\Debug\net7.0\017_PublicPrivateProtected.deps.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\bin\Debug\net7.0\017_PublicPrivateProtected.runtimeconfig.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\bin\Debug\net7.0\017_PublicPrivateProtected.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\bin\Debug\net7.0\017_PublicPrivateProtected.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\obj\Debug\net7.0\017_PublicPrivateProtected.csproj.AssemblyReference.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\obj\Debug\net7.0\017_PublicPrivateProtected.GeneratedMSBuildEditorConfig.editorconfig
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\obj\Debug\net7.0\017_PublicPrivateProtected.AssemblyInfoInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\obj\Debug\net7.0\017_PublicPrivateProtected.AssemblyInfo.cs
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\obj\Debug\net7.0\017_PublicPrivateProtected.csproj.CoreCompileInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\obj\Debug\net7.0\017_PublicPrivateProtected.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\obj\Debug\net7.0\refint\017_PublicPrivateProtected.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\obj\Debug\net7.0\017_PublicPrivateProtected.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\obj\Debug\net7.0\017_PublicPrivateProtected.genruntimeconfig.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\017_PublicPrivateProtected\obj\Debug\net7.0\ref\017_PublicPrivateProtected.dll
