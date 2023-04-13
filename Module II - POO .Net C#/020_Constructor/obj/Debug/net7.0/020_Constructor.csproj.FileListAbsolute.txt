@@ -1,0 +1,15 @@
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\obj\Debug\net7.0\020_Constructor.csproj.AssemblyReference.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\obj\Debug\net7.0\020_Constructor.GeneratedMSBuildEditorConfig.editorconfig
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\obj\Debug\net7.0\020_Constructor.AssemblyInfoInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\obj\Debug\net7.0\020_Constructor.AssemblyInfo.cs
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\obj\Debug\net7.0\020_Constructor.csproj.CoreCompileInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\bin\Debug\net7.0\020_Constructor.exe
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\bin\Debug\net7.0\020_Constructor.deps.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\bin\Debug\net7.0\020_Constructor.runtimeconfig.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\bin\Debug\net7.0\020_Constructor.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\bin\Debug\net7.0\020_Constructor.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\obj\Debug\net7.0\020_Constructor.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\obj\Debug\net7.0\refint\020_Constructor.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\obj\Debug\net7.0\020_Constructor.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\obj\Debug\net7.0\020_Constructor.genruntimeconfig.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\020_Constructor\obj\Debug\net7.0\ref\020_Constructor.dll

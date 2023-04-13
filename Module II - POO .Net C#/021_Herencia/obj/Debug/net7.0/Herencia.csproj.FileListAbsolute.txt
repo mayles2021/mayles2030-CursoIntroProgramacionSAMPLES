@@ -1,0 +1,15 @@
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\bin\Debug\net7.0\Herencia.exe
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\bin\Debug\net7.0\Herencia.deps.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\bin\Debug\net7.0\Herencia.runtimeconfig.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\bin\Debug\net7.0\Herencia.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\bin\Debug\net7.0\Herencia.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\obj\Debug\net7.0\Herencia.csproj.AssemblyReference.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\obj\Debug\net7.0\Herencia.GeneratedMSBuildEditorConfig.editorconfig
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\obj\Debug\net7.0\Herencia.AssemblyInfoInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\obj\Debug\net7.0\Herencia.AssemblyInfo.cs
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\obj\Debug\net7.0\Herencia.csproj.CoreCompileInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\obj\Debug\net7.0\Herencia.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\obj\Debug\net7.0\refint\Herencia.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\obj\Debug\net7.0\Herencia.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\obj\Debug\net7.0\Herencia.genruntimeconfig.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\Herencia\obj\Debug\net7.0\ref\Herencia.dll

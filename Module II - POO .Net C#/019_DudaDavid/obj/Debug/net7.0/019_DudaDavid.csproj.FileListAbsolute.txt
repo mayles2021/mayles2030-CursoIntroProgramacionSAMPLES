@@ -1,0 +1,15 @@
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\bin\Debug\net7.0\019_DudaDavid.exe
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\bin\Debug\net7.0\019_DudaDavid.deps.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\bin\Debug\net7.0\019_DudaDavid.runtimeconfig.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\bin\Debug\net7.0\019_DudaDavid.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\bin\Debug\net7.0\019_DudaDavid.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\obj\Debug\net7.0\019_DudaDavid.csproj.AssemblyReference.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\obj\Debug\net7.0\019_DudaDavid.GeneratedMSBuildEditorConfig.editorconfig
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\obj\Debug\net7.0\019_DudaDavid.AssemblyInfoInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\obj\Debug\net7.0\019_DudaDavid.AssemblyInfo.cs
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\obj\Debug\net7.0\019_DudaDavid.csproj.CoreCompileInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\obj\Debug\net7.0\019_DudaDavid.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\obj\Debug\net7.0\refint\019_DudaDavid.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\obj\Debug\net7.0\019_DudaDavid.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\obj\Debug\net7.0\019_DudaDavid.genruntimeconfig.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\019_DudaDavid\obj\Debug\net7.0\ref\019_DudaDavid.dll
