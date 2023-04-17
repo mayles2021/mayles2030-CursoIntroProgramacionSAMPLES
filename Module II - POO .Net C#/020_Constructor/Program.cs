@@ -6,8 +6,16 @@ namespace HelloWorld
         static void Main(string[] args) 
         { 
             
-                Constructor obj1 = new Constructor();
-                obj1.VerDatos();
+
+
+
+
+
+
+
+            
+                // Constructor obj1 = new Constructor();
+                // obj1.VerDatos();
 
 
         } 
