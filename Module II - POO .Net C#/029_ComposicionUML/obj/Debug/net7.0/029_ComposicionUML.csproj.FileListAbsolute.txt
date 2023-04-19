@@ -1,0 +1,15 @@
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\bin\Debug\net7.0\029_ComposicionUML.exe
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\bin\Debug\net7.0\029_ComposicionUML.deps.json
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\bin\Debug\net7.0\029_ComposicionUML.runtimeconfig.json
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\bin\Debug\net7.0\029_ComposicionUML.dll
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\bin\Debug\net7.0\029_ComposicionUML.pdb
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\obj\Debug\net7.0\029_ComposicionUML.csproj.AssemblyReference.cache
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\obj\Debug\net7.0\029_ComposicionUML.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\obj\Debug\net7.0\029_ComposicionUML.AssemblyInfoInputs.cache
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\obj\Debug\net7.0\029_ComposicionUML.AssemblyInfo.cs
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\obj\Debug\net7.0\029_ComposicionUML.csproj.CoreCompileInputs.cache
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\obj\Debug\net7.0\029_ComposicionUML.dll
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\obj\Debug\net7.0\refint\029_ComposicionUML.dll
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\obj\Debug\net7.0\029_ComposicionUML.pdb
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\obj\Debug\net7.0\029_ComposicionUML.genruntimeconfig.cache
+C:\Users\mayl3\Desktop\Test\029_ComposicionUML\obj\Debug\net7.0\ref\029_ComposicionUML.dll
