@@ -1,0 +1,15 @@
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\bin\Debug\net7.0\027_Sobrecarga.exe
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\bin\Debug\net7.0\027_Sobrecarga.deps.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\bin\Debug\net7.0\027_Sobrecarga.runtimeconfig.json
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\bin\Debug\net7.0\027_Sobrecarga.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\bin\Debug\net7.0\027_Sobrecarga.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\obj\Debug\net7.0\027_Sobrecarga.csproj.AssemblyReference.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\obj\Debug\net7.0\027_Sobrecarga.GeneratedMSBuildEditorConfig.editorconfig
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\obj\Debug\net7.0\027_Sobrecarga.AssemblyInfoInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\obj\Debug\net7.0\027_Sobrecarga.AssemblyInfo.cs
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\obj\Debug\net7.0\027_Sobrecarga.csproj.CoreCompileInputs.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\obj\Debug\net7.0\027_Sobrecarga.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\obj\Debug\net7.0\refint\027_Sobrecarga.dll
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\obj\Debug\net7.0\027_Sobrecarga.pdb
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\obj\Debug\net7.0\027_Sobrecarga.genruntimeconfig.cache
+D:\XFiles\XFiles_CVS\GitHub\mayles2030-CursoIntroProgramacionSAMPLES\Module II - POO .Net C#\027_Sobrecarga\obj\Debug\net7.0\ref\027_Sobrecarga.dll
