@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "035_InfoEXTRA/1.0.0": {
+        "runtime": {
+          "035_InfoEXTRA.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "035_InfoEXTRA/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

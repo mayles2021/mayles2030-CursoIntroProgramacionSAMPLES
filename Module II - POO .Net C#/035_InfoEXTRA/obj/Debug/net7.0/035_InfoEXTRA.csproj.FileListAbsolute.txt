@@ -1,0 +1,15 @@
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\bin\Debug\net7.0\035_InfoEXTRA.exe
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\bin\Debug\net7.0\035_InfoEXTRA.deps.json
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\bin\Debug\net7.0\035_InfoEXTRA.runtimeconfig.json
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\bin\Debug\net7.0\035_InfoEXTRA.dll
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\bin\Debug\net7.0\035_InfoEXTRA.pdb
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\obj\Debug\net7.0\035_InfoEXTRA.csproj.AssemblyReference.cache
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\obj\Debug\net7.0\035_InfoEXTRA.GeneratedMSBuildEditorConfig.editorconfig
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\obj\Debug\net7.0\035_InfoEXTRA.AssemblyInfoInputs.cache
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\obj\Debug\net7.0\035_InfoEXTRA.AssemblyInfo.cs
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\obj\Debug\net7.0\035_InfoEXTRA.csproj.CoreCompileInputs.cache
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\obj\Debug\net7.0\035_InfoEXTRA.dll
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\obj\Debug\net7.0\refint\035_InfoEXTRA.dll
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\obj\Debug\net7.0\035_InfoEXTRA.pdb
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\obj\Debug\net7.0\035_InfoEXTRA.genruntimeconfig.cache
+D:\XFiles\XFiles_Security\Projects\C# AVANZA\Resources Initial\Samples\Samples_GitHub\Module II - POO .Net C#\035_InfoEXTRA\obj\Debug\net7.0\ref\035_InfoEXTRA.dll
